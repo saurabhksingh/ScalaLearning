@@ -12,7 +12,7 @@
     <file path="/Philosophical.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369764223862" ignored="false" />
     <file path="/Animal.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369805828261" ignored="false" />
     <file path="/AnimalTest.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369764509590" ignored="false" />
-    <file path="/Dummy.txt" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369809401036" ignored="false" />
+    <file path="/Dummy.txt" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369972860693" ignored="false" />
     <file path="$PROJECT_DIR$/../Work/ewe/user-interaction-service/server/src/main/resources/version.properties" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369811769030" ignored="false" />
     <file path="$PROJECT_DIR$/../Work/ewe/user-interaction-service/server/pom.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369809961522" ignored="false" />
     <file path="$PROJECT_DIR$/../Work/ewe/user-interaction-service/server/src/main/java/com/expedia/www/userinteraction/server/v1/BatchOrchestrator.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369811761838" ignored="false" />
@@ -31,7 +31,11 @@
     <file path="/Expr.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369942030364" ignored="false" />
     <file path="/Var.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369942078802" ignored="false" />
     <file path="/Number.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369942361842" ignored="false" />
-    <file path="/UnOp.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369942172609" ignored="false" />
+    <file path="/UnOp.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369971994652" ignored="false" />
+    <file path="/BinOp.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369972052169" ignored="false" />
+    <file path="/ExpressionUtil.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369973425692" ignored="false" />
+    <file path="$PROJECT_DIR$/../ScalaStuff/Play/TestApp/app/controllers/Application.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369975473567" ignored="false" />
+    <file path="/Application.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369975474579" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -82,7 +87,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -92,15 +96,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Rational.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/Rational.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="36" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Animal.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/Animal.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,53 +127,60 @@
         <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/BasicIntQueueTest.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="42" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#25#56#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Expr.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Expr.scala">
+        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/Expr.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="15" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+            <state line="11" column="15" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Var.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Var.scala">
+        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/Var.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="41" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
+            <state line="11" column="41" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Number.scala" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Number.scala">
+      <file leaf-file-name="BinOp.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/BinOp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="43" selection-start="315" selection-end="315" vertical-scroll-proportion="0.39099526">
+            <state line="11" column="72" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpressionUtil.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/util/ExpressionUtil.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="81" selection-start="725" selection-end="725" vertical-scroll-proportion="0.5972435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Number.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/Number.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="43" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="UnOp.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/UnOp.scala">
+        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/UnOp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="84" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayElement.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/ArrayElement.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="2" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0">
+            <state line="11" column="57" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -194,9 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dev/saurabh/Rational.scala" />
-        <option value="$PROJECT_DIR$/src/com/dev/saurabh/TestMain.scala" />
-        <option value="$PROJECT_DIR$/src/com/dev/saurabh/Element.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/ArrayElement.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/ArrayElementTest.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/traits/Philosophical.scala" />
@@ -208,8 +207,11 @@
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/BasicIntQueueTest.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Expr.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Var.scala" />
-        <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/UnOp.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Number.scala" />
+        <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/UnOp.scala" />
+        <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/BinOp.scala" />
+        <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/BinOp.scala" />
+        <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/util/ExpressionUtil.scala" />
       </list>
     </option>
   </component>
@@ -246,7 +248,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -301,12 +302,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="traits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="saurabh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="saurabh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blocks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -322,9 +376,9 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="JUnit.BasicIntQueueTest">
     <configuration default="false" name="ArrayElementTest" type="Application" factoryName="Application" temporary="true">
@@ -457,6 +511,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -483,19 +550,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -583,32 +637,33 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="824" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Code Graph" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956952" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -677,30 +732,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/ArrayElement.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="2" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/ArrayElement.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="2" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/Element.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="60" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/Rational.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -726,6 +760,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/ArrayElementTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="37" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/Rational.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="36" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/Animal.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="17" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
@@ -740,13 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/ArrayElementTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="37" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/BasicIntQueue.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="36" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
@@ -757,36 +798,48 @@
     <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/BasicIntQueueTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="42" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#25#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Expr.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="15" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/UnOp.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/Expr.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="84" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+        <state line="11" column="15" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Var.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/Var.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="41" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
+        <state line="11" column="41" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Number.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/Number.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="43" selection-start="315" selection-end="315" vertical-scroll-proportion="0.39099526">
+        <state line="11" column="43" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/BinOp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="72" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/UnOp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="57" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/util/ExpressionUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="81" selection-start="725" selection-end="725" vertical-scroll-proportion="0.5972435">
           <folding />
         </state>
       </provider>
