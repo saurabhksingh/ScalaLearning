@@ -13,7 +13,7 @@ import com.dev.saurabh.caase.patterns.building.blocks._
  */
 class ExpressionUtil {
 
-  def simplifyTop(expr: String):Expr =  expr match {
+  def simplifyTop(expr: Expr):Expr =  expr match {
 
       case UnOp("-", UnOp("-", e)) => e  //double negation
       case BinOp("+", e, Number(0)) => e //add 0
