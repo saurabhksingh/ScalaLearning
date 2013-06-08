@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicCodePractice/BasicCodePractice.iml" filepath="$PROJECT_DIR$/BasicCodePractice/BasicCodePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebCrawlerV1/MyWebCrawlerV1.iml" filepath="$PROJECT_DIR$/MyWebCrawlerV1/MyWebCrawlerV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScalaLearning.iml" filepath="$PROJECT_DIR$/ScalaLearning.iml" />
     </modules>
   </component>

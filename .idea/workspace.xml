@@ -12,7 +12,7 @@
     <file path="/Philosophical.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369764223862" ignored="false" />
     <file path="/Animal.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369805828261" ignored="false" />
     <file path="/AnimalTest.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1369764509590" ignored="false" />
-    <file path="/Dummy.txt" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370368430491" ignored="false" />
+    <file path="/Dummy.txt" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370597565168" ignored="false" />
     <file path="$PROJECT_DIR$/../Work/ewe/user-interaction-service/server/src/main/resources/version.properties" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370341914080" ignored="false" />
     <file path="$PROJECT_DIR$/../Work/ewe/user-interaction-service/server/pom.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370415707292" ignored="false" />
     <file path="$PROJECT_DIR$/../Work/ewe/user-interaction-service/server/src/main/java/com/expedia/www/userinteraction/server/v1/BatchOrchestrator.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370234303070" ignored="false" />
@@ -52,9 +52,9 @@
     <file path="$PROJECT_DIR$/../Work/ewe/user-interaction-service/server/src/main/webapp/WEB-INF/web.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370235663985" ignored="false" />
     <file path="/web.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370235617273" ignored="false" />
     <file path="/fragment.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370430665848" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/UserInteractionRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370418454222" ignored="false" />
-    <file path="/UserInteractionRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370323616283" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/farms/dev/userinteraction.appconfig.properties" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370424933178" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/UserInteractionRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370595259814" ignored="false" />
+    <file path="/UserInteractionRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370514976168" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/farms/dev/userinteraction.appconfig.properties" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370491620167" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/farms/ch/userinteraction.appconfig.properties" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370243390687" ignored="false" />
     <file path="/userinteraction.appconfig.properties" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370243524017" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/farms/lab/userinteraction.appconfig.properties" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370243440074" ignored="false" />
@@ -82,12 +82,12 @@
     <file path="$PROJECT_DIR$/../Work/ewe/user-interaction-service/pmd-report/xml-report/unusedcode.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370369525675" ignored="false" />
     <file path="/ExceptionThrowingActor.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370413812496" ignored="false" />
     <file path="/ExceptionThrowingActorClient.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370415784440" ignored="false" />
-    <file path="/a.dummy" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370417421484" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/ThriftEndpoint.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370422652444" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/serviceRegistry.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126397" ignored="false" />
+    <file path="/a.dummy" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370590164916" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/ThriftEndpoint.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370598750133" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/serviceRegistry.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370595259814" ignored="false" />
     <file path="/serviceRegistry.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370428663366" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/ThriftDestinationSetupProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370418288877" ignored="false" />
-    <file path="/ThriftDestinationSetupProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370418277100" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/ThriftDestinationSetupProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370595259814" ignored="false" />
+    <file path="/ThriftDestinationSetupProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370580788976" ignored="false" />
     <file path="/ThriftEndpoint.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370418734841" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/globaldealsengine/mappers/GlobalDealsEngineFlightResponseMapper.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171482" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/war/WEB-INF/classes/beancontexts/expweb/presentation/insurance.system.spring.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171482" ignored="false" />
@@ -131,7 +131,7 @@
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/packages/PackageService.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171495" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/travelguides.ui/src/com/expedia/www/travelguides/ui/destination/facade/RegionAndHierarchyFacade.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171495" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/mobile.ui/src/com/expedia/www/mobile/ui/common/MobileSignInController.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171495" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/war/WEB-INF/classes/beancontexts/expweb/ui/controllers/controllers.system.spring.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171495" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/war/WEB-INF/classes/beancontexts/expweb/ui/controllers/controllers.system.spring.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370498938348" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/car/mappers/CarSearchResultsMapper.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171495" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/mobile.ui/src/com/expedia/www/mobile/ui/common/analytics/CustomOmnitureUrlBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171495" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/mobile.ui/src/com/expedia/www/mobile/ui/common/analytics/OmnitureUrlBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171495" ignored="false" />
@@ -156,8 +156,8 @@
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/entities/userinteraction/writers/RequestContextDataPopulator.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/travelguides.ui/src/com/expedia/www/travelguides/ui/destination/modelbuilders/WhatToDoModelBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/checkout.ui/src/com/expedia/www/checkout/ui/model/builder/CreditCardPaymentOptionModelBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/Endpoint.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/impl/CheckoutService.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/Endpoint.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370595259814" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/impl/CheckoutService.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/war/WEB-INF/classes/beancontexts/expweb/ui/controllers/hotels/hotel.beans.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/scratchpad.ui/test/com/expedia/www/scratchpad/ui/mappers/UserActivityGroupMapperTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/packages/retrievers/PackageAffinityRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
@@ -207,7 +207,7 @@
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/selfserv.ui/src/com/expedia/www/itin/ui/controls/StaticCrossSellControl.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/selfserv.ui/src/com/expedia/www/itin/ui/common/itinerarysupport/ItinerarySupportChecker.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/selfserv.ui/src/com/expedia/www/itin/ui/controls/CarItineraryControl.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/src/com/expedia/www/shared/ui/userinteraction/UserInteractionInterceptor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/src/com/expedia/www/shared/ui/userinteraction/UserInteractionInterceptor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/partnerloyalty/processor/CoalitionApplyAwardProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/selfserv.ui/src/com/expedia/www/itin/ui/common/itinerarysupport/PackageSupportChecker.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/content/views/default/pages/checkout/confirmation/confirmation.ftl" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171496" ignored="false" />
@@ -278,7 +278,7 @@
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/content/resources/views/default/pages/itin/hotel_cancel_confirmation_details_email_page_en_ca.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171497" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/content/views/sites/www.expedia.com_1/publish/pages/promo/deals.ftl" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171497" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/user/AuthService.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171497" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/impl/CamelConnectorImpl.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171497" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/impl/CamelConnectorImpl.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/content/resources/views/default/pages/itin/hotel_cancel_confirmation_details_email_page_en_gb.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171497" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/travelguides.ui/src/com/expedia/www/travelguides/ui/destination/modelbuilders/HowToGetThereModelBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171497" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/content/resources/views/default/pages/itin/hotel_cancel_confirmation_details_email_page_en_hk.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171497" ignored="false" />
@@ -358,7 +358,7 @@
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/dx/mappers/v1/DXGetDetailsRequestBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/tools.ui/src/com/expedia/www/tools/ui/seo/content/tool/SeoContentController.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/packages.ui/src/com/expedia/www/packages/ui/controllers/util/search/v1/PackageSearchResultsContentModelBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/ConnectorFactory.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/ConnectorFactory.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/marketing.ui/src/com/expedia/www/marketing/ui/taap/controllers/ItineraryListController.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/dx/mappers/v1/DXGetDetailsResponseMapper.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/insurance/mappers/InsuranceShoppingResultsMapper.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
@@ -397,20 +397,202 @@
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/checkout.ui/src/com/expedia/www/checkout/ui/controller/TripPreferencesController.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/src/com/expedia/www/shared/ui/models/partnerloyalty/coalition/ValidationAttemptRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/EdxSoapSetupProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/EmainHttpGetMethodProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/HttpSetupProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/EmainHttpGetMethodProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/HttpSetupProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/selfserv.ui/src/com/expedia/www/itin/ui/controllers/RestfulTripDetailsController.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/entities/flight/builders/ConfirmationCodeBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/packages.ui/src/com/expedia/www/packages/ui/controllers/PackageSearchController.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370419171498" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/checkout.ui/src/com/expedia/www/checkout/ui/controller/SecurityFilter.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126396" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/expweb.common.appconfig.properties" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126397" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/expweb.common.appconfig.properties" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/DomainBeanRegistry.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126397" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/entities/trip/component/Air/AirComponentBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126397" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/src/com/expedia/www/shared/ui/controllers/UserItinController.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126397" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/releaseFeatures.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126397" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/releaseFeatures.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/farms/dev/log4j.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126397" ignored="false" />
     <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/flight/util/FlightRulesAndRestrictionsConfig.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126397" ignored="false" />
-    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/ivy.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370431126397" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/ivy.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/caase/patterns/building/blocks/Expr.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542130" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/caase/patterns/building/blocks/UnOp.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542130" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/caase/patterns/building/blocks/BinOp.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/caase/patterns/building/blocks/Number.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/actors/chat/model/Post.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/actors/chat/model/User.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/actors/chat/model/UserPost.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/actors/chat/action/Subscribe.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/actors/chat/action/Unsubscribe.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/actors/chat/controller/ChatRoomController.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/actors/exception/handling/ExceptionThrowingActor.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/actors/exception/handling/ExceptionThrowingActorClient.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/traits/Philosophical.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/stateful/Time.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542131" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/caase/patterns/util/ExpressionUtil.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542132" ignored="false" />
+    <file path="$PROJECT_DIR$/BasicCodePractice/src/saurabh/caase/patterns/building/blocks/Var.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370451542132" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/userinteraction/UserInteractionService.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/dataCapture.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/properties.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="/ThriftDestinationSetupProcessorTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370499003613" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/processors/ThriftDestinationSetupProcessorTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build/war/WEB-INF/classes/expweb-servlet_context/production/artifacts/com.expedia.e3.cx.expedia.widgetlibrary.deals/package/psfdealswidget.dealbox2.s4.lfr_ca.spring.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370502836573" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build/war/WEB-INF/classes/beancontexts/expweb/dataaccess/airdataagent.provider.spring.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370502836573" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/build/test-results/test/TEST-com.expedia.www.domain.valuetypes.discovery.packages.DaysBookedDirectAssertionDataTests.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370502836573" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/build/test-results/test/TEST-com.expedia.www.dataaccess.affinity.AffinityRequestTests.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370502836573" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build/war/WEB-INF/classes/expweb-servlet_context/production/artifacts/com.expedia.e3.cx.expedia.widgetlibrary.deals/package/psfdealswidget.dealbox2.s25.spring.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370502836573" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/UserInteractionThriftHeaderProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370503654285" ignored="false" />
+    <file path="/UserInteractionThriftHeaderProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370503613014" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build/tmp/lib/com.expedia.cc.data.basetypes.v4-1.0.0.xsd" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370504301510" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build/tmp/lib/com.expedia.e3.data.basetypes.v1-1.1.2.xsd" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370504301510" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build/tmp/lib/com.expedia.e3.data.basetypes.v4-4.2.0.xsd" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370504301510" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build/war/WEB-INF/classes/com/expedia/e3/platform/presentation/core/handlerinterceptor/schema/interceptorns.xsd" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370515738221" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build/war/WEB-INF/classes/com/expedia/e3/platform/presentation/widget/schema/widgetflagns.xsd" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370513623318" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/pvs/PaymentVaultServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641510" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ExpressionByIDResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641510" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/loyaltyactivitylogging/helper/LoyaltyActivityLoggingHelper.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641510" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/InsuranceGetProductPriceOfferRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641510" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/activityMobileWebImageLibrary.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/ConnectorFactoryTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/ExceptionWrappingConnectorTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com/expedia/e3/platform/presentation/core/servlet/beanclass/FrameworkFilter.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/CamelRouteTests-context.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ProductsForVendorResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/CamelRouteTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/UpdateExpressionRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/HttpConnectionStressTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ProductsForVendorRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/HttpConnectionTest-Context.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/dataformats/ThriftDataFormat.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ClearAllUserHistoryRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ExpressionForVendorRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/BasicHttpRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/InsuranceByTrlResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com/expedia/www/platform/configuration/PlaceholderString.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641511" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/InsuranceByTrlRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/InsuranceOfferResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/InsuranceOfferRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/InsuranceOpResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/InsuranceOpRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/InsuranceOpsRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/build-parallel.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/InsuranceOpsV2RouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/entities/hotel/impl/SponsoredRetailHotel.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/coupon/IGroupRewardsCouponService.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ReadTripResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ReadTripRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/softvoyageErrorShoppingResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/DeleteExpressionResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/softvoyageNextAvailableDatesShoppingResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/softvoyageShoppingResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/softvoyageVerifyResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641512" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/DeleteExpressionRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/UserHistoryServiceRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/integrationTest/com/expedia/www/dataaccess/commons/connector/camel/routes/TravelHookLatencyRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/RouteBuilderConstants.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/config/EndpointTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/config/HttpEndpointTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/ivy-nexus-settings.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/SoftvoyageServiceCheckOutlRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/ivy-nexus.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/config/ServiceRegistryTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/src/com/expedia/www/shared/ui/repositories/TripRepository.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/ivysettings.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/UserInteractionRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370595259814" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/macros.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/EndpointSetting.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/impl/ConnectorTimeoutException.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/InputMessage.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/coupon/v2/ApplyCouponResponse.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641513" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/coupon/v2/BaseCouponResponse.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com/expedia/e3/platform/presentation/core/systemServices.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/integrationTest/com/expedia/www/dataaccess/commons/connector/camel/routes/FlightStatsRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/TaapApiRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/activityMobileImageLibrary.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/SiteWideCrosslinkingHttpRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/apiDomainService.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/test/com/expedia/e3/platform/presentation/core/servlet/beanclass/FrameworkHttpServletRequestWrapperTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/businessrules.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/impl/SimpleHttpConnectorImpl.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/carMobileImageLibrary.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/impl/SimpleJMSConnector.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/impl/SOAPConnectorImpl.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/DoubleClickAdRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/credentialRepositoryAARP.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/src/com/expedia/www/shared/ui/controllers/psf/PsfDevtoolController.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/destinationImageLibrary.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/disneyHotelFilter.shouldBeInContent.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/war/WEB-INF/web.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/frameworkActivityReport.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/api/identity/IAuthenticationDomainPOCv3.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641514" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/api/identity/valuetypes/AuthenticationResponse.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/api/identity/valuetypes/CreationAndAuthenticationResponse.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/IOrderManagementService.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/ipsniff.redirect.domain.default.appconfig.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/payments/impl/PaymentOptionFeeRanges.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/stub/test/com/expedia/www/dataaccess/trip/stub/UpdateTripUserConnectorTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/HatServiceRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/MongoEndpoint.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/OMSRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/handler/UserProfileHandler.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/src/com/expedia/www/shared/ui/ad/SharedAdContextManager.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/SoapHttpSetupProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/src/com/expedia/www/shared/ui/controls/datacapture/DataCaptureTag.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/phoneNumber.appconfig.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ReviewServiceRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/psfv2.appconfig.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641515" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/build.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/searchContracts.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/processors/TravelHookSetupProcessor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/siteid.details.appconfig.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/taxesAndFeesBreakout.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/partnerRepository.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/CarMobileWebImageLibrary.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/softvoyageBookingResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/payments/impl/OrderResponse.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/UserServiceV3RouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/UserHistoryRemoveUserInterationRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/build.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/UserHistoryRouteBuilderTestUtils.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/appconfig/base/destinationMobileWebImageLibrary.appconfigobj.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/ICouponServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com.expedia.e3.platform.presentation.browsercaps.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/Header.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com.expedia.e3.platform.presentation.core.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/HttpEndpoint.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641516" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com.expedia.e3.platform.presentation.exceptionresolver.transactiologging.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com.expedia.e3.platform.presentation.link.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/test/com/expedia/www/shared/ui/controls/datacapture/DataCaptureTagTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/JmsEndpoint.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/coupon/AbstractCouponServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com.expedia.e3.platform.presentation.loyalty.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/ProxyRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com.expedia.e3.platform.presentation.model.formatter.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/ServiceDescriptor.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test-api/com/expedia/www/dataaccess/commons/connector/stub/MockedServiceRegistryBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com.expedia.e3.platform.presentation.model.loc.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/SoftvoyageServiceTripDetailRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/coupon/CouponEntityHelper.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com.expedia.e3.platform.presentation.mttwebauth.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/SoapEndpoint.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/com.expedia.e3.platform.presentation.siteid.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/SoftvoyageServiceShoppingRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/config/Url.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/coupon/air/FlightCouponServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/platform/src/serialization.settings.import.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641517" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/coupon/hotel/HotelCouponServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/coupon/packages/PackageCouponServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/CreateExpressionRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/shared.ui/src/com/expedia/www/shared/ui/userinteraction/devtools/UserInteractionServiceDevToolController.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ExpressionForProductResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ExpressionForVendorResponse.xml" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/LodgingRoutesBuilderV3Tests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/src/com/expedia/www/dataaccess/commons/connector/camel/routes/SSLPricingAvailabilityServiceRouteBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/oms/v1/air/CreateOrderRequestTypeBuilder.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/oms/v1/air/FlightOrderManagementServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/dataaccess/test/com/expedia/www/dataaccess/commons/connector/camel/routes/ExpressionByIDRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/oms/v1/hotel/HotelOrderManagementServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/oms/v1/hotel/ResumeOrderManagementServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="$USER_HOME$/sausingh_1953/sausingh_1953_mac/www/expweb/trunk/domain/src/com/expedia/www/domain/services/checkout/retriever/oms/v1/packages/PackageOrderManagementServiceRetriever.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370519641518" ignored="false" />
+    <file path="/UserInteractionRouteBuilderTests.java" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370590558725" ignored="false" />
+    <file path="/Point2D.scala" changelist="107049c4-35ed-4e6c-b1bb-0036af1098b4" time="1370619748677" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -425,6 +607,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -461,7 +644,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -471,91 +653,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ChatRoomController.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/chat/controller/ChatRoomController.scala">
+      <file leaf-file-name="SortingUtil.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicCodePractice/src/saurabh/util/SortingUtil.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="7" selection-start="788" selection-end="1668" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpressionUtil.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/util/ExpressionUtil.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="28" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinOp.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/BinOp.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="11" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Expr.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/Expr.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="15" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExceptionThrowingActor.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/exception/handling/ExceptionThrowingActor.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExceptionThrowingActorClient.scala" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/exception/handling/ExceptionThrowingActorClient.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="35" selection-start="425" selection-end="425" vertical-scroll-proportion="0.53571427">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasicIntQueueTest.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/BasicIntQueueTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayElement.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/ArrayElement.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="6" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+            <state line="4" column="46" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AnimalTest.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/AnimalTest.scala">
+        <entry file="file://$PROJECT_DIR$/BasicCodePractice/src/saurabh/AnimalTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="7" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="249" selection-end="391" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasicIntQueue.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/BasicIntQueue.scala">
+      <file leaf-file-name="Point2D.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BasicCodePractice/src/saurabh/Point2D.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="36" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
+            <state line="37" column="26" selection-start="821" selection-end="821" vertical-scroll-proportion="0.82589287">
               <folding />
             </state>
           </provider>
@@ -571,8 +690,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/Number.scala" />
-        <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/UnOp.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/BinOp.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/BinOp.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/util/SortingUtil.scala" />
@@ -587,6 +704,8 @@
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/util/ExpressionUtil.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/actors/exception/handling/ExceptionThrowingActor.scala" />
         <option value="$PROJECT_DIR$/src/com/dev/saurabh/actors/exception/handling/ExceptionThrowingActorClient.scala" />
+        <option value="$PROJECT_DIR$/BasicCodePractice/src/saurabh/util/SortingUtil.scala" />
+        <option value="$PROJECT_DIR$/BasicCodePractice/src/saurabh/Point2D.scala" />
       </list>
     </option>
   </component>
@@ -651,11 +770,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="saurabh" />
+              <option name="myItemId" value="BasicCodePractice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -669,29 +784,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="saurabh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaLearning" />
+              <option name="myItemId" value="BasicCodePractice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -700,96 +793,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="saurabh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blocks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="saurabh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="handling" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="saurabh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="saurabh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -800,44 +803,30 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ExceptionThrowingActorClient">
-    <configuration default="false" name="AnimalTest" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.dev.saurabh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.dev.saurabh.AnimalTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaLearning" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BasicCodePractice/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnimalTest">
     <configuration default="false" name="BasicIntQueueTest" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -932,6 +921,28 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="AnimalTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="saurabh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="saurabh.AnimalTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BasicCodePractice" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -944,6 +955,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -972,19 +996,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1024,19 +1035,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.AnimalTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BasicIntQueueTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.BasicIntQueueTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ExceptionThrowingActorClient" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BasicIntQueueTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BasicIntQueueTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ExceptionThrowingActorClient" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AnimalTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ExceptionThrowingActorClient" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BasicIntQueueTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BasicIntQueueTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AnimalTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AnimalTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ExceptionThrowingActorClient" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BasicIntQueueTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BasicIntQueueTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1071,8 +1082,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="820" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1440" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1086,19 +1097,19 @@
       <window_info id="Code Graph" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956952" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714286" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.67285717" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32714286" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.67285717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714286" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32714286" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1167,110 +1178,129 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/chat/model/Post.scala">
+    <entry file="file://$PROJECT_DIR$/BasicCodePractice/src/saurabh/util/SortingUtil.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="15" selection-start="285" selection-end="285" vertical-scroll-proportion="0.26865673" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/chat/action/Subscribe.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="31" selection-start="301" selection-end="301" vertical-scroll-proportion="0.26865673" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/chat/action/Unsubscribe.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="22" selection-start="292" selection-end="292" vertical-scroll-proportion="0.26865673" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/chat/model/User.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="28" selection-start="298" selection-end="298" vertical-scroll-proportion="0.26865673" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/chat/model/UserPost.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="40" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/util/SortingUtil.scala">
+    <entry file="file://$PROJECT_DIR$/BasicCodePractice/src/saurabh/AnimalTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="27" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
+        <state line="11" column="0" selection-start="249" selection-end="391" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/BasicIntQueue.scala">
+    <entry file="file://$PROJECT_DIR$/BasicCodePractice/src/saurabh/util/SortingUtil.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="36" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
+        <state line="4" column="46" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/BasicIntQueueTest.scala">
+    <entry file="file://$PROJECT_DIR$/BasicCodePractice/src/saurabh/AnimalTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0">
+        <state line="11" column="0" selection-start="249" selection-end="391" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/ArrayElement.scala">
+    <entry file="file://$PROJECT_DIR$/BasicCodePractice/src/saurabh/Point2D.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+        <state line="37" column="26" selection-start="821" selection-end="821" vertical-scroll-proportion="0.82589287">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/AnimalTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/BinOp.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="11" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/building/blocks/Expr.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="15" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/caase/patterns/util/ExpressionUtil.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="28" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/chat/controller/ChatRoomController.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="7" selection-start="788" selection-end="1668" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/exception/handling/ExceptionThrowingActor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dev/saurabh/actors/exception/handling/ExceptionThrowingActorClient.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="35" selection-start="425" selection-end="425" vertical-scroll-proportion="0.53571427">
-          <folding />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Node.js v0.8.15 Core Modules</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MyWebCrawlerV1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
